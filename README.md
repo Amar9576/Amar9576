@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amar9576
 - 👀 I’m interested in ..development.
-- 🌱 I’m currently learning ...app development 
+- 🌱 I’m currently learning ...Full Stack Web development 
 - 💞️ I’m looking to collaborate on ..corporate world / it sector .
 - 📫 How to reach me mail us akubxr2017@gmail.com.
 
